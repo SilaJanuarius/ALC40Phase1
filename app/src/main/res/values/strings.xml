@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="button_about">Button</string>
+    <string name="button_profile">Button</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="image_view">IMAGE</string>
+    <string name="textview_name">TextView</string>
+    <string name="januarius_sila">Januarius Sila</string>
+    <string name="januarius_sila_kilonzo">Januarius Sila Kilonzo</string>
+    <string name="imageview_sila">TODO</string>
+    <string name="android">Android</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="_254715894130">+254715894130</string>
+    <string name="sila_kilonzo">Sila Kilonzo</string>
+    <string name="kilonzosila_gmail_com">kilonzosila@gmail.com</string>
+    <string name="track">Track:</string>
+    <string name="email">Email:</string>
+    <string name="kenya">Kenya</string>
+    <string name="country">Country:</string>
+
+
+</resources>
